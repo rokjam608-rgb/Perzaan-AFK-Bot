@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "ShadowSRX.aternos.me",
+    "port": 29116,
     "version": "1.21.1"
   },
   "position": {
